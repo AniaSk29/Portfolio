@@ -9,6 +9,9 @@ My name is Anna Skorupska- Stasiak. I am finishing my PhD in Biochemistry. I hav
 # Technical skills
 - **C#** basic knowledge <br>
 - **MySQL** <br>
+- Software testing
+- Bug cases reporting
+- Test cases writing
 # Certificates
 - **ISTQB FL**
 # Courses
