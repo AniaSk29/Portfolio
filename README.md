@@ -17,6 +17,6 @@ My name is Anna Skorupska- Stasiak. I am finishing my PhD in Biochemistry. I hav
 # Courses
 - Udemy - **Praktyczny kurs testowania oprogramowania**
 # My example test cases 
-[Trello test cases] (https://docs.google.com/document/d/1VIzjXBy_CFiPCh6so_UWZLf99QX4TjHt_mneB7qQ3S8/edit#)
+[Trello test cases] cdn
 
 
