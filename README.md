@@ -16,6 +16,8 @@ My name is Anna Skorupska- Stasiak. I am finishing my PhD in Biochemistry. I hav
 - **ISTQB FL**
 # Courses
 - Udemy - **Praktyczny kurs testowania oprogramowania**
+- Udemy - **Postman: The Complete Guide - REST API Testing** - in progress
+
 # My example test cases 
 [Trello test cases] cdn
 
