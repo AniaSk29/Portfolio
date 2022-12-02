@@ -8,6 +8,7 @@ My name is Anna Skorupska- Stasiak. I am finishing my PhD in Biochemistry. I hav
  - **GitHub**
 # Technical skills
 - **C#** basic knowledge <br>
+- **JavaScript** basic knowledge<br>
 - **MySQL** <br>
 - Software testing
 - Bug cases reporting
