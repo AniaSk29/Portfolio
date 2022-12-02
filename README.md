@@ -23,6 +23,6 @@ My name is Anna Skorupska- Stasiak. I am finishing my PhD in Biochemistry. I hav
 # My example bug report
 [Trello bug report] cdn
 # My projects
-- <a href="[https://goodbudget.com/](https://docs.google.com/document/d/1KW0HZXRn8ky4mbopETfCWjlnY-5H_Zd2iYSpl8qeOvs/edit#)" target="_blank"> Testing of **Goodbudget** application </a>
+- <a href="https://goodbudget.com/](https://docs.google.com/document/d/1KW0HZXRn8ky4mbopETfCWjlnY-5H_Zd2iYSpl8qeOvs/edit#" target="_blank"> Testing of **Goodbudget** application </a>
 
 
