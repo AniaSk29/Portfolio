@@ -21,5 +21,6 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
 <a href="https://docs.google.com/document/d/1evN93b0iZiRvwIoR51aosdQFSHqMplfdUo7KZh9mBb4/edit#heading=h.b6andpv1vzvu" target="_blank"> Trello Bug Report</a>
 # My projects
 - <a href="https://docs.google.com/document/d/1KW0HZXRn8ky4mbopETfCWjlnY-5H_Zd2iYSpl8qeOvs/edit#" target="_blank"> Testing of **Goodbudget** application -test scenarios </a>
+- <a href=https://docs.google.com/document/d/1tachyX4Rc4LaYeHr8mTR-oe3uS_pS0GJuy1OPvRHPP8/edit#" target="_blank"> Bug Report of **Goodbudget** application </a>
 
 
