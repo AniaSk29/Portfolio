@@ -24,5 +24,5 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
 - <a href="https://docs.google.com/document/d/1tachyX4Rc4LaYeHr8mTR-oe3uS_pS0GJuy1OPvRHPP8/edit#" target="_blank"> Bug Report of **Goodbudget** application 
  </a>
 - <a href="https://docs.google.com/spreadsheets/d/1HrjnUfaQ-pLHtShUi6s2DjFYeW-7aeu2Mhz_OaHchhE/edit#gid=0" target="_blank"> Test Report **Goodbudget** application
-- </a>
+</a>
 
