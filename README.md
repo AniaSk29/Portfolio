@@ -10,9 +10,9 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
 - Software testing <br>
 - Bug cases reporting <br>
 - Test cases writing <br>
+- **SQL** <br>
 - **C#** basic knowledge <br>
 - **JavaScript** basic knowledge<br>
-- **SQL** <br>
 # Certificates
 - **ISTQB FL**
 # My example test cases 
