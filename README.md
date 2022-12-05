@@ -15,15 +15,13 @@ My name is Anna Skorupska- Stasiak. I am finishing my PhD in Biochemistry. I hav
 - Test cases writing
 # Certificates
 - **ISTQB FL**
-# Courses
-- Udemy - **Praktyczny kurs testowania oprogramowania**
-- Udemy - **Postman: The Complete Guide - REST API Testing** - in progress
+
 
 # My example test cases 
 <a href="https://docs.google.com/document/d/1VIzjXBy_CFiPCh6so_UWZLf99QX4TjHt_mneB7qQ3S8/edit#" target="_blank">Trello Test Cases</a>
 # My example bug report
 <a href="https://docs.google.com/document/d/1evN93b0iZiRvwIoR51aosdQFSHqMplfdUo7KZh9mBb4/edit#heading=h.b6andpv1vzvu" target="_blank"> Trello Bug Report</a>
 # My projects
-- <a href="https://goodbudget.com/](https://docs.google.com/document/d/1KW0HZXRn8ky4mbopETfCWjlnY-5H_Zd2iYSpl8qeOvs/edit#" target="_blank"> Testing of **Goodbudget** application </a>
+- <a href="https://docs.google.com/document/d/1KW0HZXRn8ky4mbopETfCWjlnY-5H_Zd2iYSpl8qeOvs/edit#" target="_blank"> Testing of **Goodbudget** application </a>
 
 
