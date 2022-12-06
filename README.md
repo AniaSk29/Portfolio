@@ -5,7 +5,7 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
 # Tools
 - **Jira**, **TestLink** - test management tool <br>
 - **Postman** - API testing tool <br>
- - **GitHub**
+ - **GitHub** <br>
 # Technical skills
 - Software testing <br>
 - Bug cases reporting <br>
