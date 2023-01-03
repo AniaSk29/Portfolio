@@ -13,7 +13,7 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
 - Test cases writing <br>
 - **SQL** <br>
 - **C#** basic knowledge <br>
-- **JavaScript** basic knowledge <br>
+
 # Certificates
 - **ISTQB FL**
 # My example test cases 
