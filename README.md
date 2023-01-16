@@ -7,6 +7,7 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
 - **Postman** - API testing tool <br>
  - **GitHub** <br>
  - **Jmeter**<br>
+ - **Selenium WebDriver**<br>
 # Technical skills
 - Software testing <br>
 - Bug cases reporting <br>
