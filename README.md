@@ -1,7 +1,7 @@
 # Portfolio
 My Tester's Portfolio
 # About me
-My name is Anna Skorupska-Stasiak. I have been interested in software testing since half a year. I would like to improve my testing knowledge and skills.
+My name is Anna Skorupska-Stasiak. I have been interested in software testing since seven months. I would especially like to develop towards test automation. 
 # Tools
 - **Jira**, **TestLink** - test management tool <br>
 - **Postman** - API testing tool <br>
