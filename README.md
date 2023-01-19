@@ -28,7 +28,6 @@ My name is Anna Skorupska-Stasiak. I have been interested in software testing si
  <a href="https://docs.google.com/spreadsheets/d/1HrjnUfaQ-pLHtShUi6s2DjFYeW-7aeu2Mhz_OaHchhE/edit#gid=0" target="_blank"> Test Report **Goodbudget** application
 </a>
  
-- **Skleptest.pl**  website <br>
-<a href="https://docs.google.com/document/d/1muVqHQxIig_jO5mvVP3GXItId95QfFpw6SPrN3KBLWE/edit#heading=h.w4vb28tgz9an" target="_blank"> Test Scenarios  </a>
+
 
 
